@@ -76,7 +76,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background-image: url("..\me-home-image.png");
+    background-image: url("me-home-image.png");
     background-size: cover;
     background-position: center;
 }
