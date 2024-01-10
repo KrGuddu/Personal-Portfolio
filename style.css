@@ -72,7 +72,7 @@ section{
     padding: 10rem 9% 5rem;
 
 }
-#home{                             /* check ".home" or "#home" */
+#home{
     display: flex;
     align-items: center;
     padding: 0 9%;
@@ -329,7 +329,7 @@ span{
 }
 .project-box img{
     width: 100%;
-    transition: .5s ease;       /* hover krne pr image upper a jane ke liye lagaya h */ 
+    transition: .5s ease;
 }
 .project-box:hover img{
     transform: scale(1.1);
@@ -562,7 +562,7 @@ span{
     font-size: 1.6rem;
     padding-top: .5rem;
 }
-.education-content .content a{                    /* iss line ko hata do sath me java trainning ki section se "a" tag ko v hata do */
+.education-content .content a{
     color: white;
 }
 
@@ -588,7 +588,7 @@ span{
 }
 .certificate-box img{
     width: 100%;
-    transition: .5s ease;       /* hover krne pr image upper a jane ke liye lagaya h */ 
+    transition: .5s ease;
 }
 .certificate-box:hover img{
     transform: scale(1.1);
